@@ -1,0 +1,20 @@
+[33mcommit 727b5d9689ac9872a87d305b24bad4b4f09e9918[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: edf87b2 f8801f9
+Author: LaurIulian <151769903+LaurIulian@users.noreply.github.com>
+Date:   Thu Aug 8 23:13:41 2024 +0300
+
+    Merge pull request #1 from LaurIulian/testbranch
+    
+    'new paragraph'
+
+[33mcommit f8801f9c3e558b196e9d9c7a7963e6ac9eb4d333[m[33m ([m[1;31morigin/testbranch[m[33m, [m[1;32mtestbranch[m[33m)[m
+Author: Laur Iulian <marin_laurentiu_iulian@yahoo.com>
+Date:   Thu Aug 8 23:11:20 2024 +0300
+
+    'n'
+
+[33mcommit edf87b2e6e0cb3c0fee47752aecb851b919aa399[m
+Author: Laur Iulian <marin_laurentiu_iulian@yahoo.com>
+Date:   Thu Aug 8 22:54:29 2024 +0300
+
+    'm'
